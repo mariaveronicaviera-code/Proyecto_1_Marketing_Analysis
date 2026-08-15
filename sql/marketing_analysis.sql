@@ -1,6 +1,3 @@
-create database
-create database holamundo;
-CREATE DATABASE holamundo;
 SHOW databases;
 DESCRIBE marketing_analysis_customers;
 SHOW COLUMNS FROM marketing_analysis_customers
